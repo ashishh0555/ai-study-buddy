@@ -50,27 +50,27 @@ ai-study-buddy/
 
 ### Features
 
-![Features](screenshots/features.png)
+![Features](screenshots/features.PNG)
 
 ### Explain Concept
 
-![Explain Concept](screenshots/explain-concept.png)
+![Explain Concept](screenshots/explain-concept.PNG)
 
 ### Quiz Generator
 
-![Quiz Generator](screenshots/quiz-generator.png)
+![Quiz Generator](screenshots/quiz-generator.PNG)
 
 ### Chat History
 
-![Chat History](screenshots/chat-history.png)
+![Chat History](screenshots/chat-history.PNG)
 
 ### Statistics
 
-![Statistics](screenshots/stats.png)
+![Statistics](screenshots/stats.PNG)
 
 ### Multi Language Support
 
-![Mutli Language Support](screenshots/mutli-lang.png)
+![Mutli Language Support](screenshots/mutli-lang.PNG)
 
 ## What I Learned
 
