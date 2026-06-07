@@ -308,3 +308,21 @@ else:
             st.write(
                 item["response"]
             )
+
+            st.divider()
+st.divider()
+
+st.markdown("""
+### 👨‍💻 About the Developer
+
+**Ashish Kumar**
+
+Mechatronics Engineering Student at MIT Manipal
+
+🔗 GitHub: https://github.com/ashishh0555
+
+Built using:
+- Python
+- Streamlit
+- Gemini API
+""")
