@@ -317,7 +317,7 @@ st.markdown("""
 
 **Ashish Kumar**
 
-Mechatronics Engineering Student at MIT Manipal
+Mechx | MIT Manipal
 
 🔗 GitHub: https://github.com/ashishh0555
 
