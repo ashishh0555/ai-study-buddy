@@ -42,6 +42,36 @@ ai-study-buddy/
 
 └── screenshots/
 
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Features
+
+![Features](screenshots/features.png)
+
+### Explain Concept
+
+![Explain Concept](screenshots/explain-concept.png)
+
+### Quiz Generator
+
+![Quiz Generator](screenshots/quiz-generator.png)
+
+### Chat History
+
+![Chat History](screenshots/chat-history.png)
+
+### Statistics
+
+![Statistics](screenshots/stats.png)
+
+### Multi Language Support
+
+![Mutli Language Support](screenshots/mutli-lang.png)
+
 ## What I Learned
 
 * Working with APIs
