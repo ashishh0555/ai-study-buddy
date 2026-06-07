@@ -35,6 +35,10 @@ st.set_page_config(
 
 st.title("🤖 AI Study Buddy")
 
+st.write(
+    "An AI-powered study assistant built using Streamlit and Google's Gemini API."
+)
+
 # SIDEBAR
 with st.sidebar:
 

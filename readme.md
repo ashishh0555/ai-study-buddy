@@ -1,25 +1,56 @@
 # 🤖 AI Study Buddy
 
-AI Study Buddy is an AI-powered learning assistant built using Python, Streamlit, and Google's Gemini API.
+AI Study Buddy is a web-based AI assistant built using Python, Streamlit, and Google's Gemini API.
+
+The application helps students learn faster by explaining concepts, summarizing text, generating quiz questions, and translating content into multiple languages.
 
 ## Features
 
+### Core Features
+
 * Explain Concepts
 * Summarize Text
-* Generate Engineering Quiz Questions
+* Generate Quiz Questions
+
+### Additional Features
+
 * Translate Text
 * Multiple Language Support
-* Beginner and Professional Response Modes
+* Beginner & Professional Response Modes
 * Chat History
 * Download Responses
 * Session Statistics
 
-## Tech Stack
+## Technologies Used
 
 * Python
 * Streamlit
-* Gemini API
-* Google Generative AI SDK
+* Google Gemini API
+* Python Dotenv
+
+## Project Structure
+
+ai-study-buddy/
+
+├── streamlit_app.py
+
+├── app.py
+
+├── requirements.txt
+
+├── README.md
+
+└── screenshots/
+
+## What I Learned
+
+* Working with APIs
+* Prompt Engineering
+* Streamlit Web Development
+* Environment Variables
+* Git and GitHub
+* Cloud Deployment
+
 
 ## Installation
 
@@ -37,6 +68,12 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
+## Live Demo
+
+[https://ai-study-buddy-28q8s3nqup47tehjgpjuzq.streamlit.app/]
+
 ## Author
 
 Ashish Kumar
+
+MIT Manipal
