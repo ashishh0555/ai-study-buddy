@@ -1,5 +1,12 @@
 .venv/
+.venv-1/
+
 .env
+
 __pycache__/
+
+.DS_Store
+._*
+
 history.txt
 response.md
