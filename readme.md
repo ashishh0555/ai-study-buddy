@@ -100,7 +100,7 @@ streamlit run streamlit_app.py
 
 ## Live Demo
 
-[https://ai-study-buddy-28q8s3nqup47tehjgpjuzq.streamlit.app/]
+[[https://ai-study-buddy-28q8s3nqup47tehjgpjuzq.streamlit.app/](https://ai-study-buddy-byashish-28q8s3nqup47tehjgpjuzq.streamlit.app/)]
 
 ## Author
 
